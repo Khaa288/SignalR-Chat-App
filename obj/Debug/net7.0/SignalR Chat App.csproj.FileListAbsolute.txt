@@ -1,0 +1,32 @@
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\appsettings.Development.json
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\appsettings.json
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\libman.json
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\SignalR Chat App.staticwebassets.runtime.json
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\SignalR Chat App.exe
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\SignalR Chat App.deps.json
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\SignalR Chat App.runtimeconfig.json
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\SignalR Chat App.dll
+K:\CSharp_Learning\Application\SignalR Chat App\bin\Debug\net7.0\SignalR Chat App.pdb
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.csproj.AssemblyReference.cache
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.GeneratedMSBuildEditorConfig.editorconfig
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.AssemblyInfoInputs.cache
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.AssemblyInfo.cs
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.csproj.CoreCompileInputs.cache
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.MvcApplicationPartsAssemblyInfo.cache
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.RazorAssemblyInfo.cache
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.RazorAssemblyInfo.cs
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\staticwebassets\msbuild.SignalR Chat App.Microsoft.AspNetCore.StaticWebAssets.props
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\staticwebassets\msbuild.build.SignalR Chat App.props
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.SignalR Chat App.props
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.SignalR Chat App.props
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\staticwebassets.pack.json
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\staticwebassets.build.json
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\staticwebassets.development.json
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\scopedcss\bundle\SignalR Chat App.styles.css
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\scopedcss\projectbundle\SignalR Chat App.bundle.scp.css
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.dll
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\refint\SignalR Chat App.dll
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.pdb
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\SignalR Chat App.genruntimeconfig.cache
+K:\CSharp_Learning\Application\SignalR Chat App\obj\Debug\net7.0\ref\SignalR Chat App.dll

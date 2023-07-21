@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SignalR Chat App/1.0.0": {
+        "runtime": {
+          "SignalR Chat App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignalR Chat App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
